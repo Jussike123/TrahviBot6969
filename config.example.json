@@ -1,0 +1,10 @@
+{
+  "token": "YOUR_DISCORD_BOT_TOKEN",
+  "clientId": "YOUR_DISCORD_CLIENT_ID",
+  "erlcApiBaseUrl": "https://erlc.example/api",
+  "erlcApiKey": "YOUR_ERLC_API_KEY",
+  "notifyDiscordId": "YOUR_DISCORD_ID",
+  "guildId": "YOUR_GUILD_ID",
+  "boatApiBaseUrl": "https://unbelivableboat.example/api",
+  "boatApiToken": "YOUR_BOAT_API_JWT"
+}

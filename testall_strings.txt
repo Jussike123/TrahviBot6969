@@ -1,0 +1,192 @@
+Pomm
+Pomm-1
+Eddie \xfclevaatuspunkt
+Pomm-2
+Hiina t\xe4nava draakoni pood
+klaasil\xf5ikur
+Klaasil\xf5ikur
+klaasil\xf5ikur-1
+P\xe4rnu autoparandus
+klaasil\xf5ikur-2
+Laserl\xf5ikur
+Juveelipood (Seif)
+Pank
+P\xe4rnu eramajade juures olev punker
+Deemand V\xe4ike
+Must raha
+Discord raha
+PostalCode
+postalCode
+[DEBUG] award_in_game_cash send_game_hint result -> {result}
+signaaliblokker
+Postal code {postal_code}
+Toiming eba\xf5nnestus: sa lahkusid asukohast enne protsessi l\xf5ppu.
+\U0001f6a8 Signaaliblokker eba\xf5nnestus \u2014 alarm l\xe4ks k\xe4ima \U0001f6a8
+\u2705 Signaaliblokker toimis \u2014 alarm ei aktiveerunud \u2705
+Keegi teatas, et {location_name} juures toimub kahtlane tegevus.
+Asukoht
+Uhoh... Lekitatud info: keegi n\xe4gi sind {location_name} juures ja helistas politseisse!
+Hei! Boss \xfctleb, et politsei raadio tundub vaikne ja kaamerad v\xf5ivad olla maas. Tegutse kiiresti!
+Asukoht: Haapsalu vana tsiviilspawn. (11042)
+Heist eba\xf5nnestus: sa lahkusid piirkonnast enne, kui raha oli tasku pistetud. Proovi uuesti hiljem.
+R\xf6\xf6v: {location_data['label']}
+heistinfo_yes
+Heist Info sessioon on m\xf6\xf6das v\xf5i aegunud.
+Mine elektroonikapoodi.\\nZIP: 403\\nPalun leia \xf5ige asukoht, kus sa pead olema.
+Mitte \xf5nnestunud: sa ei j\xf5udnud elektroonikapoodi 5 minuti jooksul.
+Kas sa tahad osta signaaliblokkerit 25 000 eest? (Kestab 5 sekundit)
+heistinfo_no
+Okei, sa ei soovi osta. Head aega.
+krediitkaart_signaaliblokker
+Signaali blokkeri krediitkaardi ostmine eba\xf5nnestus: {update_message}
+Te maksite krediitkaardiga 25 000. Raha v\xf5etakse \xe4ra ja te v\xf5ite j\xe4\xe4da miinustesse. Signaali blokker lisatud sinu inventari.
+Te maksite krediitkaardiga 25 000, kuid signaali blokkeri lisamine inventari eba\xf5nnestus: {message}
+Okei, sa ei soovi krediitkaardiga maksta. Head aega.
+BOAT API pole konfigureeritud, ei saa osta.
+M\xfcgimees \xfctles, et teie kaardil pole piisavalt vahendeid.
+Sellet\xf5ttu, et teil pole piisavalt vahendeid, kas te soovite krediitkaardiga maksta? (Raha v\xf5etakse \xe4ra ja v\xf5ite j\xe4\xe4da miinustesse)
+Signaali blokkeri ostmine eba\xf5nnestus: {update_message}
+Signaali blokker lisatud sinu inventari.
+Signaali blokker osteti, kuid lisamine inventari eba\xf5nnestus: {message}
+Sul on juba aktiivne HeistInfo sessioon. Oota, kuni see l\xf5peb.
+Vali \xf5ige heistiga koht: Juveelid v\xf5i Pank.
+S\xf5ida ZIP {heist_location['zip']}, {heist_location['label'].split(' (')[0]}
+S\xf5ida asukohta: {heist_location['label']}
+Eba\xf5nnetus: sa ei j\xf5udnud valitud asukohta 5 minuti jooksul.
+Sa uurid j\xe4rgmised 5 sekundit \xfcmbrust.
+Sa lahkusid asukohast enne 5 sekundi m\xf6\xf6dumist. Proovi uuesti.
+Hmm.. Tundub, et siin on turvakaamerad.\\nBoss soovitab signaaliblokkerit.\\nKas sa soovid seda?
+heistinfo
+Start the HeistInfo flow and get hidden electronics location
+Which heist location to scout
+Invalid heist selection.
+Sul on juba aktiivne heist. Vali oma t\xf6\xf6riist selle heisti jaoks.
+heist_key
+Mine {heist_data["label"]} ZIP {heist_data["zip"]} juurde.\\n
+Sul on 5 minutit, et sinna j\xf5uda.
+Ei \xf5nnestunud: sa ei j\xf5udnud asukohta \xf5igeaegselt.
+Heist sessioon kadus enne kui j\xf5udsid kohale.
+Okei. Enne kui sa p\xe4\xe4sed seifini sa pead saama turvav\xe4rava lahti. 
+Okei, sa oled n\xfc\xfcd kohal. N\xfc\xfcd on sinu otsustada, mida sa j\xe4rgmisena kasutad.
+laserl\xf5ikur
+Sa oled juba t\xf6\xf6riista valinud. Oota, kuni protsess l\xf5peb.
+heist_tool_pauk
+heist_tool_pomm
+heist_tool_laser
+heist_tool_klaas
+Heist sessioon ei ole enam aktiivne.
+Inventuuri kontroll eba\xf5nnestus: {error}
+Sul pole inventaris t\xf6\xf6riista {item_name}.
+Inventuuri uuendamine eba\xf5nnestus: {remove_error}
+Sa tegutsed... \u23f3
+Okei, tubli. Sa oled seifi juures. Millega sa seifi lahti teed?
+{qty}x {item_name} lisatud sinu inventari.
+Heist l\xf5petatud, kuid esemete lisamine eba\xf5nnestus: {boat_message}
+{reward_amount} Mustraha on lisatud sinu inventuuri.
+Ai. Tundub, et rahaauto oli vahepeal raha \xe4ra viinud. Ei vea... Sa v\xf5tsid mida sa said.
+Heist l\xf5petatud, kuid mustaraha lisamine eba\xf5nnestus: {message}
+Boss kutsus sind tauniks. Seif on tehtud metallist, mitte klaasist. 
+T\xf5mba sealt kiiresti minema, alarm k\xe4ivitus ja politsei on teel!
+Okei. Hea valik, sa said peaaegu k\xf5ik rahat\xe4hed endale. 
+Laser oli v\xf5imas ja k\xf5rvetas paar t\xe4hte tuhaks. 
+Sa lugesid kokku: {amount} mustaraha.
+Oi oi... Pomm lasi enamus raha \xf5hku... 
+Uhoh. Sinu pomm oli halvasti ehitatud ja see plahvatas koheselt.\\n
+Su heist kukus l\xe4bi.
+Uhoh. Sinu pomm plahvatas, kuid m\xf5ned tapmisk\xe4sud eba\xf5nnestusid:\\n
+Uhoh. Sinu pomm oli halvasti ehitatud ja see plahvatas koheselt, kuid piirkonnas ei leitud mingeid m\xe4ngijaid.\\n
+Sa asetasid pommi v\xe4ravale. V\xe4rav lendas \xf5hku ja p\xe4\xe4sesid seifi juurde.
+--Sa l\xf5ikad laseriga luku maha--
+Boss kutsus sind tauniks. V\xe4ravad ei ole klaasist tehtud. 
+T\xf5mba n\xfc\xfcd kiiresti minekut. Sa kukkusid l\xe4bi. Pead uuesti proovima.
+Pank v\xe4rav
+Sa kukkusid l\xe4bi. Pead uuesti proovima.
+Pomm purustas k\xf5ik deemandid. Sa ei saanud midagi.
+Sa l\xf5ikad seifi... \u23f3 (5 sekundit)
+Heist eba\xf5nnestus: sa lahkusid seifi piirkonnast.
+Sa kogud teemante... \u23f3 (5 sekundit)
+{small_qty}x Deemand V\xe4ike
+Sa l\xe4ksid seifi kallale. Sa said: 
+Seif on avanenud. Kogud raha... \u23f3 (5 sekundit)
+Sinu k\xe4ed v\xe4risesid l\xf5ikamise ajal ja osa rahast k\xf5rbes. 
+Sa said kokku {amount} mustaraha.
+Sa l\xf5ikad lahti ja saad kokku {amount} mustaraha.
+Heist eba\xf5nnestus: sa lahkusid enne pommi aktiveerumist.
+Pomm purustas suure osa rahat\xe4htedest! 
+Sa leidsid ainult {amount} mustaraha alles.
+Seif avanes ja sa kogusid kokku {amount} mustaraha.
+Sa t\xf6\xf6tled seifi... \u23f3
+Sa ei leidnud deemandeid.
+Boss kutsus sind tauniks. Seif ei ole klaasist tehtud. T\xf5mba minekut.
+Seif ei avanud. Alarm k\xe4ivitub.
+Sa l\xf5ikad ust laseriga... \u23f3 (5 sekundit)
+Uks on avanenud. Kogud raha... \u23f3 (5 sekundit)
+Sa l\xf5ikad ust laseriga ja p\xe4\xe4sed seifi juurde. 
+Sa saad {amount} mustaraha.
+Tundub, et uks on paksem kui laser suudab l\xf5igata.
+Laser ei l\xe4binud ust. Alarm k\xe4ivitub.
+Seif on avanenud. N\xfc\xfcd on sul 5 sekundit aega raha kokku koguda. \u23f3
+N\xfc\xfcd kogusid raha kokku 5 sekundi jooksul. Alarm k\xe4ivitub.\\n
+Paigaldad Pommi... \u23f3 (5 sekundit)
+Test \xf5nnestus!
+Vihje saatmine eba\xf5nnestus: {result["error"]}
+Vihje saadetud: {hint_command}
+Vihje saadetud: :h testvihje
+Vihje saatmine eba\xf5nnestus: testviga
+Starting challenge: Prepstart \u2014 Eddie \xfclevaatuspunkt
+V\xe4ljakutse: Pomm\\nMine Eddie \xfclevaatuspunkt asukohaga ZIP 501. Ole seal 5 sekundit.
+Sa j\xf5udsid Eddie \xfclevaatuspunkt. Oota 5 sekundit kohalolekut.
+Sa valmistad pommi j\xe4rgmised 5 sekundit.
+Sa lahkusid piirkonnast enne n\xf5utud aja m\xf6\xf6dumist. V\xe4ljakutse eba\xf5nnestus.
+Okei, tubli! Sa said vajaliku asja k\xe4tte. T\xf5mba n\xfc\xfcd kiiresti minema, et keegi ei m\xe4rkaks.
+Mine Pank ZIP 123 juurde. Sul on 5 minutit, et sinna j\xf5uda.
+Rahapesu eba\xf5nnestus: sa lahkusid pesumaja piirkonnast.
+Oled pesumajas. Vajuta nuppu "Pese raha", et valida summa ja alustada rahapesu.
+Oled punkris. Kui oled valmis, vali deemand mida sa m\xfc\xfca tahad ja sisesta kogus.
+Piirkonnas 2051 Freedom Avenue ei leitud mingeid m\xe4ngijaid.
+Tapetud m\xe4ngijad: hannahplay21
+Tapmine eba\xf5nnestus: error
+Uuups... Lekkinud info: keegi n\xe4gi sind Pank juures ja helistas politseisse!
+Hei! Boss \xfctleb, et politsei radar n\xe4ib vaikne ja kaamerad v\xf5ivad olla h\xe4iritud. Toimi kiiresti!
+See on testipopup, mille kaudu saab n\xe4ha, kuidas info kanalisse j\xf5uab.
+N\xe4idisembed:
+V\xe4ljakutse: {challenge_data["display_name"]}\\n
+{mission_data["description"]}. Sul on 5 minutit aega, et kohale j\xf5uda ja seal p\xfcsida.
+Eba\xf5nnestus: sa ei j\xf5udnud sihtkohta 5 minuti jooksul.
+Sa j\xf5udsid {mission_data["name"]}. Oota {mission_data["required_stay_sec"]} sekundit kohalolekut.
+<@{NOTIFY_DISCORD_ID}> {challenge_data['reward']} l\xf5petatud m\xe4ngijalt {username}!\\n
+VALMISTAMINE L\xc4BI\\n
+Roboxi m\xe4ngija: {username}\\n
+Alarm: {alarm_status}
+\xd5nnestus! {challenge_data["reward"]} valmis, kuid BOAT inventari uuendamine eba\xf5nnestus: {boat_message}
+heist
+Start a heist and go to the location
+Heist location
+Ei \xf5nnestunud saada asukohta m\xe4ngijale {username}: {error_text}
+Asukoht m\xe4ngijale {username}:\\n```json\\n{format_player_location(player_data)}\\n```
+{username} asukoht: {location_text}
+m\xfc\xfc
+P\xe4rnus tegutseb tundmatu m\xfc\xfcgimees.\\n
+Jutud k\xe4ivad, et tema m\xfc\xfcgikoht asub {DEEMAND_SELL_LOCATION["label"]} ({DEEMAND_SELL_LOCATION["zip"]})\\n
+{location_message}\\nSul on 5 minutit, et sinna j\xf5uda.
+Sa ei j\xf5udnud punkrisse 5 minuti jooksul, m\xfc\xfcgimees l\xe4ks enne koju \xe4ra.
+rahapesu
+Convert must raha to discord money at the abandoned laundry
+Jutud k\xe4ivad, et tema m\xfc\xfcgikoht asub 301 l\xe4heduses.\\n
+Lisainfo: Mine l\xe4hedale koordinaatidele {LAUNDROMAT_LOCATION["x"]}, {LAUNDROMAT_LOCATION["z"]} (mitte t\xe4pselt, vaid \xfcmberringi).
+Sul on juba aktiivne rahapesu. Oota, kuni see l\xf5peb enne uue k\xe4ivitamist.
+Hmmm... Sul on raha must?\\n
+Ma tean \xfchte kohta.\\n
+Mine 301 l\xe4hedusse.\\n
+Asukoht: {LAUNDROMAT_LOCATION["x"]}, {LAUNDROMAT_LOCATION["z"]}.\\n
+Mitte \xf5nnestunud: sa ei j\xf5udnud 301 l\xe4hedusse 5 minuti jooksul.
+Rahapesu k\xe4ivitus eba\xf5nnestus: {exc}
+Pese raha
+Rahapesu on juba pooleli. Oota, kuni see l\xf5peb.
+Sul pole piisavalt mustraha. Vajad v\xe4hemalt {amount} mustraha, et seda rahapesu k\xe4ivitada.
+Mustraha eemaldamine eba\xf5nnestus: {remove_error}
+\n    try:\n        result = await erlc_client.send_game_hint(
+, hint_command)\n        if isinstance(result, dict) and result.get(
+, kill_command)\n        if isinstance(result, dict) and result.get(
+\n        try:\n            result = await erlc_client.send_game_hint(
+, kill_command)\n            if isinstance(result, dict) and result.get(
